@@ -60,6 +60,15 @@
     padding: 5px 10px;
     width: max-content;
     border-radius: 15px;
+    cursor: pointer;
+}
+.left-s>:nth-child(3):hover
+{
+    background-color: #F8E367;
+    color: aliceblue;
+    border: none;
+    font-weight: 600;
+    font-size: 0.7rem;
 }
 .img-p
 {
